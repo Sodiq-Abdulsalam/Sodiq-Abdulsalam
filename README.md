@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sodiq-Abdulsalam
 - 👀 I’m interested in Python and Revit API, Dynamo
 - 🌱 I’m currently learning Python 
+- @ALX Softwere Engineering Stundent
 
 
 <!---
